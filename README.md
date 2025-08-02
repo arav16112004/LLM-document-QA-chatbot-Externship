@@ -9,7 +9,6 @@ A full-stack, LLM-powered document question-answering system that extracts, anal
 - **Semantic Chunking**: Custom text segmentation that improves document retrieval accuracy by 40%.
 - **Query Optimization**: Prompt engineering, query rewriting, and hybrid retrieval (dense + keyword) boost factuality.
 - **Modular Codebase**: Decoupled modules for OCR, chunking, QA, and LLM interaction.
-- **Scalable**: Architecture ready for cloud deployment (AWS S3, EC2, SageMaker-compatible).
 
 
 ## 🧠 Tech Stack
